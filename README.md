@@ -1,5 +1,3 @@
-# Acoustic-Pick-Rescue-Challenge
-
 # Acoustic Guitar Pick Extraction Challenge
 
 ## Overview
